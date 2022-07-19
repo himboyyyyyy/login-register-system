@@ -7,4 +7,4 @@ cmd: pip install quick-sqlite-database
 
 author of this module: https://github.com/dada909090/quick-sqlite-db
 
-hope you guys can make python project with this system easily!
+# hope you guys can make python project with this system easily!
